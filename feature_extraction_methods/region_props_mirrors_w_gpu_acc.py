@@ -1,0 +1,1 @@
+# region_props functions replicas w/ GPU acceleration
